@@ -7,7 +7,7 @@ gracefulFs.gracefulify(fs);
 // config
 const zoomMin = 0; // 0
 const zoomWhole = 7; // until 7 level, download whole world
-const zoomMax = 13; // final 13
+const zoomMax = 12; // final 12
 const latitudeMax = 38.85
 const latitudeMin = 29.85
 const longitudeMax = 132.84627495139412;
