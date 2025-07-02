@@ -1,5 +1,5 @@
 # build
-- run ubuntu in not docker env
+- run ubuntu in not docker env (allocate enough resource cpu, memory, storage)
 - ssh-keygen -t rsa
 - add deploy keys in github (write mode)
 - git clone git@github.com:lancard/tile-server.git
