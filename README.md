@@ -1,4 +1,5 @@
 # build
+- apt install npm git
 - run ubuntu in not docker env (allocate enough resource cpu, memory, storage)
 - ssh-keygen -t rsa
 - add deploy keys in github (write mode)
